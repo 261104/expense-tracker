@@ -1,3 +1,9 @@
+## Live Demo
+
+[Live Application](https://expense-tracker-five-gamma-63.vercel.app/)
+[API Documentation](https://expense-tracker-6rm5.onrender.com/docs)
+
+
 # Expense Tracker
 
 A full-stack personal finance application for tracking expenses, managing budgets, and viewing spending insights.
